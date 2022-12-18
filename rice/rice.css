@@ -378,3 +378,8 @@ h1{ /* Members Text Font Settings */
     font-family:Courier New, monospace
     text-decoration: unset;
 }
+
+* {
+    user-select: none;
+  }
+  
