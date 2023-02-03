@@ -78,11 +78,11 @@ img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  box-shadow: 0px 0px 3px 5px #ff0000;
+  box-shadow: 0px 0px 3px 5px #000000;
 }
 
 .pfp:hover {
-  box-shadow: 0px 0px 3px 5px rgb(255, 0, 0)27, 127);
+  box-shadow: 0px 0px 3px 5px rgb(0, 0, 0)27, 127);
 }
 
 .callsign {
@@ -136,13 +136,13 @@ img {
 
 .card > .username:hover {
   padding-top: 15px;
-  color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
 .card > .username > .dwc {
   color: #edc05c;
-  text-shadow: #ff6e00 0px 1px, red 1px 0px 15px, 1px 1px;
+  text-shadow: #ff6e00 0px 1px, rgb(0, 0, 0) 1px 0px 15px, 1px 1px;
 }
 
 .card > .sub {
@@ -165,7 +165,7 @@ img {
 }
 
 .card > .socials > a:hover {
-  color: aquamarine;
+  color: rgb(255, 255, 255);
 }
 
 .card > .socials a + a {
@@ -180,7 +180,7 @@ img {
 
 .card:hover .sub {
   opacity: 1;
-  color: aquamarine;
+  color: rgb(0, 0, 0);
 }
 
 @media screen and (max-width: 1800px) {
