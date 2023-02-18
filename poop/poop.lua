@@ -1,5 +1,4 @@
 script_key = getgenv().Settings.Options.Key;
-
 ([[
                 This script has been licensed using Luarmor
             Unauthorized distribution of this script is forbidden.
