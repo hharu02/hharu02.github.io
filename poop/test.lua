@@ -1,5 +1,4 @@
 script_key = getgenv().Settings.Options.Key;
-
 ([[
                 This script has been licensed using Luarmor
             Unauthorized distribution of this script is forbidden.
@@ -7,7 +6,7 @@ script_key = getgenv().Settings.Options.Key;
       internal logic will result in a global ban, and make you blacklisted from
             every single script that has been licensed with Luarmor
 
-        Luarmor v3.3a for Roblox, #1 lua whitelisting system by Federal#9999
+        Luarmor v3.4 for Roblox, #1 lua whitelisting system by Federal#9999
 				   https://luarmor.net/
 
                 _             _   
