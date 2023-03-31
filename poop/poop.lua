@@ -9,26 +9,6 @@ script_key = getgenv().Settings.Options.Key;
         Luarmor v3.4b for Roblox, #1 lua whitelisting system by Federal#9999
 				   https://luarmor.net/
 
-                _             _           
-       _____  _| |_ ___  _ __| |_         
-      / _ \ \/ / __/ _ \| '__| __|        
-     |  __/>  <| || (_) | |  | |_         
-      \___/_/\_\\__\___/|_|   \__|  _____ 
-                                   |_____|
-
-                                                     
-                 Script ID: 7173772a6b664f7a45cb49ba15d10199
-]])
-([[
-                This script has been licensed using Luarmor
-            Unauthorized distribution of this script is forbidden.
-      Any attempts at tampering, reverse engineering or modifying this script's 
-      internal logic will result in a global ban, and make you blacklisted from
-            every single script that has been licensed with Luarmor
-
-        Luarmor v3.4b for Roblox, #1 lua whitelisting system by Federal#9999
-				   https://luarmor.net/
-
                 _             _   
        _____  _| |_ ___  _ __| |_ 
       / _ \ \/ / __/ _ \| '__| __|
